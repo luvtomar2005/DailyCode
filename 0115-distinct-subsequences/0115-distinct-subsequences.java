@@ -1,39 +1,29 @@
 class Solution {
-    // Memoization solution
-
-    int[][] dp;
-
-    private int f(int i, int j, String s, String t) {
-
-        // Target completed
-        if (j < 0)
-            return 1;
-
-        // Source exhausted
-        if (i < 0)
-            return 0;
-
-        if (dp[i][j] != -1)
-            return dp[i][j];
-
-        if (s.charAt(i) == t.charAt(j)) {
-
-            return dp[i][j] =
-                    f(i - 1, j - 1, s, t)
-                  + f(i - 1, j, s, t);
-
-        }
-
-        return dp[i][j] = f(i - 1, j, s, t);
-    }
-
+    // Solving using tabulation
     public int numDistinct(String s, String t) {
-
-        dp = new int[s.length()][t.length()];
-
-        for (int[] row : dp)
-            Arrays.fill(row, -1);
-
-        return f(s.length() - 1, t.length() - 1, s, t);
+        int n = s.length();
+        int m = t.length();
+        int [][] dp = new int[n + 1][m + 1];
+        // Target is empty
+        for(int i = 0;i<n;i++){
+            dp[i][0] = 1;
+        }        
+        for(int j = 1;j<=m;j++){
+            dp[0][j] = 0;
+        }
+        for(int i = 1;i<=n;i++){
+            for(int j = 1;j<=m;j++){
+                if(s.charAt(i - 1) == t.charAt(j - 1)){
+                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
+                    
+                }
+                else{
+                    dp[i][j] = dp[i-1][j];
+                }
+            }
+        }
+        return dp[n][m];
     }
 }
+
+                
