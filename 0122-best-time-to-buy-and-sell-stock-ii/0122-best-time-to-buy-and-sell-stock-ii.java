@@ -1,69 +1,87 @@
 class Solution {
-    // solving using tabulation
-
+    // solving using memoizatoin
     public int maxProfit(int[] prices) {
 
         int n = prices.length;
 
-        // dp[index][buy]
-        //
-        // buy = 1
-        // I don't own a stock.
-        // I can BUY.
-        //
-        // buy = 0
-        // I already own a stock.
-        // I can SELL or HOLD.
-        int[][] dp = new int[n + 1][2];
+        int[][] dp = new int[n][2];
 
-        // Base Case:
-        // After the last day,
-        // no profit can be earned.
-        dp[n][0] = 0;
-        dp[n][1] = 0;
-
-        // Fill from last day to first day.
-        for (int index = n - 1; index >= 0; index--) {
-
-            // ============================
-            // buy == 1
-            // I have permission to BUY
-            // ============================
-
-            // Buy today's stock.
-            int buyStock =
-                    -prices[index] + dp[index + 1][0];
-
-            // Skip today's buying.
-            int skipBuying =
-                    dp[index + 1][1];
-
-            dp[index][1] =
-                    Math.max(buyStock, skipBuying);
-
-            // ============================
-            // buy == 0
-            // I already own a stock.
-            // Choices:
-            // Sell OR Hold
-            // ============================
-
-            // Sell today's stock.
-            int sellStock =
-                    prices[index] + dp[index + 1][1];
-
-            // Don't sell.
-            // Continue holding.
-            int holdStock =
-                    dp[index + 1][0];
-
-            dp[index][0] =
-                    Math.max(sellStock, holdStock);
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
         }
 
         // Start from day 0.
-        // Initially we own nothing,
+        // Initially we don't own any stock,
         // so we have permission to BUY.
-        return dp[0][1];
+        return solve(0, 1, prices, dp);
+    }
+
+    private int solve(int index, int buy, int[] prices, int[][] dp) {
+
+        // No days left.
+        if (index == prices.length)
+            return 0;
+
+        if (dp[index][buy] != -1)
+            return dp[index][buy];
+
+        // ------------------------------------------
+        // buy == 1
+        // Means:
+        // I DON'T own any stock.
+        // I have permission to BUY.
+        // ------------------------------------------
+        if (buy == 1) {
+
+            // OPTION 1:
+            // Buy today's stock.
+            // Money goes out of pocket,
+            // so subtract today's price.
+            int buyStock =
+                    -prices[index]
+                            + solve(index + 1, 0, prices, dp);
+
+            // OPTION 2:
+            // Don't buy anything today.
+            // Just move to next day with same permission.
+            int skipBuying =
+                    solve(index + 1, 1, prices, dp);
+
+            // Take whichever gives more profit.
+            return dp[index][buy] =
+                    Math.max(buyStock, skipBuying);
+        }
+
+        // ------------------------------------------
+        // buy == 0
+        // Means:
+        // I ALREADY own one stock.
+        // Therefore I CANNOT buy.
+        //
+        // Choices:
+        // Sell
+        // OR
+        // Keep holding
+        // ------------------------------------------
+        else {
+
+            // OPTION 1:
+            // Sell today's stock.
+            // Money comes into pocket,
+            // so add today's price.
+            int sellStock =
+                    prices[index]
+                            + solve(index + 1, 1, prices, dp);
+
+            // OPTION 2:
+            // Don't sell.
+            // Continue holding the stock.
+            int holdStock =
+                    solve(index + 1, 0, prices, dp);
+
+            // Best of selling or holding.
+            return dp[index][buy] =
+                    Math.max(sellStock, holdStock);
+        }
     }
 }
