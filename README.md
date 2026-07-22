@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/luvtomar2005/DailyCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Binary Search
 |  |
@@ -59,5 +60,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
