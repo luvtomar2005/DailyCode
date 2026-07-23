@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/luvtomar2005/DailyCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/luvtomar2005/DailyCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Sorting
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
