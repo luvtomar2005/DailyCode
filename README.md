@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/luvtomar2005/DailyCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
+| [3536-maximum-product-of-two-digits](https://github.com/luvtomar2005/DailyCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
