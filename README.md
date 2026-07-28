@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/luvtomar2005/DailyCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
