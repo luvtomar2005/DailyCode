@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/luvtomar2005/DailyCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
