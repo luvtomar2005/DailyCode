@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/luvtomar2005/DailyCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/luvtomar2005/DailyCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/luvtomar2005/DailyCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -89,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
