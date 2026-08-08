@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
