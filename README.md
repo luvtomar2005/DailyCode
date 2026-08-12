@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/luvtomar2005/DailyCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1406-stone-game-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luvtomar2005/DailyCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/luvtomar2005/DailyCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
