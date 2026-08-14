@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/luvtomar2005/DailyCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/luvtomar2005/DailyCode/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/luvtomar2005/DailyCode/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
