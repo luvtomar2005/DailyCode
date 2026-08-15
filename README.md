@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/luvtomar2005/DailyCode/tree/master/1140-stone-game-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
+| [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
 | ------- |
