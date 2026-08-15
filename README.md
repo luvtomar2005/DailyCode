@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/luvtomar2005/DailyCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 ## Stack
