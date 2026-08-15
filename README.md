@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/luvtomar2005/DailyCode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/luvtomar2005/DailyCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luvtomar2005/DailyCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/luvtomar2005/DailyCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
