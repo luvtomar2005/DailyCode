@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
