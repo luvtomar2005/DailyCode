@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/luvtomar2005/DailyCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/luvtomar2005/DailyCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/luvtomar2005/DailyCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/luvtomar2005/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -260,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
