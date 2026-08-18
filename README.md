@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
+| [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
@@ -258,11 +260,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
