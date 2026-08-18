@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/luvtomar2005/DailyCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/luvtomar2005/DailyCode/tree/master/0525-contiguous-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/luvtomar2005/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/luvtomar2005/DailyCode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/luvtomar2005/DailyCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -264,4 +268,9 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
