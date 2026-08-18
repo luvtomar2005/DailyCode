@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/luvtomar2005/DailyCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
 ## Math
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/luvtomar2005/DailyCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/luvtomar2005/DailyCode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/luvtomar2005/DailyCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/luvtomar2005/DailyCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
@@ -260,12 +262,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/luvtomar2005/DailyCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/luvtomar2005/DailyCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/luvtomar2005/DailyCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
