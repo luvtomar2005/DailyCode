@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/luvtomar2005/DailyCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/luvtomar2005/DailyCode/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/luvtomar2005/DailyCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1406-stone-game-iii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/luvtomar2005/DailyCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
