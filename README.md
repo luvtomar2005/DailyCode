@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/luvtomar2005/DailyCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/luvtomar2005/DailyCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/luvtomar2005/DailyCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/luvtomar2005/DailyCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luvtomar2005/DailyCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/luvtomar2005/DailyCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/luvtomar2005/DailyCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/luvtomar2005/DailyCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/luvtomar2005/DailyCode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
