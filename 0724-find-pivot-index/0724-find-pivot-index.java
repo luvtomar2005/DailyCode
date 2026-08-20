@@ -1,23 +1,16 @@
-/* Approach 1 using two array prefix + suffix sum */
+/* Apporach 2 of prefix sum without creating array */
 class Solution {
     public int pivotIndex(int[] nums) {
-        int n = nums.length;
-        int [] prefixSum = new int[n];
-        int [] suffixSum = new int[n];
-        // Building prefixSum
-        
-        for(int i = 1;i<n;i++){
-            prefixSum[i] = prefixSum[i - 1] + nums[i - 1];
+        int totalSum = 0;
+        for(int num : nums){
+            totalSum += num;
         }
-        // Building suffix sum
-        for(int i = n -2;i>=0;i--){
-            suffixSum[i] = suffixSum[i + 1] + nums[i + 1];
-        }
-        // Finding the equal element
-        for(int i = 0;i<n;i++){
-            if(prefixSum[i] == suffixSum[i]){
-                return i;
-            }
+        int leftSum =0;
+        for(int i = 0;i<nums.length;i++){
+            int rightSum = totalSum - leftSum - nums[i];
+
+            if(leftSum == rightSum) return i;
+            leftSum += nums[i];
         }
         return -1;
     }
