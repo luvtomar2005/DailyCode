@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/luvtomar2005/DailyCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/luvtomar2005/DailyCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/luvtomar2005/DailyCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/luvtomar2005/DailyCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/luvtomar2005/DailyCode/tree/master/0076-minimum-window-substring) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/luvtomar2005/DailyCode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/luvtomar2005/DailyCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/luvtomar2005/DailyCode/tree/master/0844-backspace-string-compare) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/luvtomar2005/DailyCode/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/luvtomar2005/DailyCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
