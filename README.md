@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/luvtomar2005/DailyCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
