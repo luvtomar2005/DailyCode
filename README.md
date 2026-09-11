@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/luvtomar2005/DailyCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/luvtomar2005/DailyCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/luvtomar2005/DailyCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/luvtomar2005/DailyCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/luvtomar2005/DailyCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/luvtomar2005/DailyCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/luvtomar2005/DailyCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/luvtomar2005/DailyCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/luvtomar2005/DailyCode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Bit Manipulation
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/luvtomar2005/DailyCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/luvtomar2005/DailyCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/luvtomar2005/DailyCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/luvtomar2005/DailyCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
