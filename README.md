@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/luvtomar2005/DailyCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/luvtomar2005/DailyCode/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/luvtomar2005/DailyCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvtomar2005/DailyCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/luvtomar2005/DailyCode/tree/master/1406-stone-game-iii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/luvtomar2005/DailyCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/luvtomar2005/DailyCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvtomar2005/DailyCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/luvtomar2005/DailyCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Game Theory
 |  |
@@ -277,11 +279,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvtomar2005/DailyCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/luvtomar2005/DailyCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/luvtomar2005/DailyCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvtomar2005/DailyCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/luvtomar2005/DailyCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/luvtomar2005/DailyCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/luvtomar2005/DailyCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sweep Line
 |  |
