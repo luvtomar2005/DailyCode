@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/luvtomar2005/DailyCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/luvtomar2005/DailyCode/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/luvtomar2005/DailyCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/luvtomar2005/DailyCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/luvtomar2005/DailyCode/tree/master/1140-stone-game-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/luvtomar2005/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/luvtomar2005/DailyCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/luvtomar2005/DailyCode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/luvtomar2005/DailyCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/luvtomar2005/DailyCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/luvtomar2005/DailyCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/luvtomar2005/DailyCode/tree/master/0904-fruit-into-baskets) |
